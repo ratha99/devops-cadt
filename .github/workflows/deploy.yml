@@ -22,4 +22,4 @@ jobs:
             ls
             cd devops-cadt-2
             git pull
-            pm2 restart devops-test
+            pm2 restart ratha-server-express
