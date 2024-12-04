@@ -20,6 +20,6 @@ jobs:
             whoami
             pwd
             ls
-            cd devops-cadt-2
+            cd devops-cadt
             git pull
             pm2 restart ratha-server-express
